@@ -1,7 +1,5 @@
 # Customer-Purchase-Prediction
 
-# Customer Purchase Prediction
-
 ## Project Overview
 
 This project is aimed at predicting whether a customer will make a purchase based on their demographic and review data. The dataset contains customer information such as age, gender, education level, and review ratings. Using this data, a machine learning model is built to predict if a customer will make a purchase (`Yes` or `No`).
